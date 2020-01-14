@@ -1,0 +1,42 @@
+{
+  "_from": "@pninitg/slugger",
+  "_id": "@pninitg/slugger@1.0.0",
+  "_inBundle": false,
+  "_integrity": "sha512-q8fYGeeogHxGDe8rrPnT1oASHyemR1BoKFR3B+RWDp4+nQ6eQOokZuq/25JQA560ZOevyR7CxbcIjUPoiH4fCA==",
+  "_location": "/@pninitg/slugger",
+  "_phantomChildren": {},
+  "_requested": {
+    "type": "tag",
+    "registry": true,
+    "raw": "@pninitg/slugger",
+    "name": "@pninitg/slugger",
+    "escapedName": "@pninitg%2fslugger",
+    "scope": "@pninitg",
+    "rawSpec": "",
+    "saveSpec": null,
+    "fetchSpec": "latest"
+  },
+  "_requiredBy": [
+    "#USER",
+    "/"
+  ],
+  "_resolved": "https://registry.npmjs.org/@pninitg/slugger/-/slugger-1.0.0.tgz",
+  "_shasum": "1d6d00d1787b812d8e2a296de0e43c8e09181580",
+  "_spec": "@pninitg/slugger",
+  "_where": "C:\\workspace\\use-slugger",
+  "author": "",
+  "bundleDependencies": false,
+  "deprecated": false,
+  "description": "",
+  "devDependencies": {
+    "nodemon": "^2.0.2"
+  },
+  "keywords": [],
+  "license": "ISC",
+  "main": "src/index.js",
+  "name": "@pninitg/slugger",
+  "scripts": {
+    "test": "nodemon src/tester.js"
+  },
+  "version": "1.0.0"
+}
